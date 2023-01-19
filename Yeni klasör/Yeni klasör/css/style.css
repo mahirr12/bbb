@@ -1,0 +1,426 @@
+.genel {
+	
+	display:table;
+	margin-left:auto;
+	margin-right:auto;
+	
+	
+}
+
+.header {
+	
+	width:1200px;
+	margin-top:20px;
+	height:200px;
+	background-color:Black;
+	border:1px solid blue;
+	
+}
+
+.header h2 {
+	
+	position:relative;
+	top:90px;
+	left:50px;
+	font-size:32px;
+	font-family:verdana;
+	
+}
+.reklam {
+	
+	float:right;
+	margin-left:auto;
+	margin-top:45px;
+	margin-right:20px;
+	
+}
+
+.menu {
+	width:1200px;
+	border:1px solid blue;
+	background-color:black;
+	margin-top:20px;
+	float:left;
+	height:45px;
+	
+}
+
+.menu ul li {
+	
+	float:left;
+	
+}	
+
+.menu ul li a {
+	
+	display:block;
+	padding:15px;
+	border-right:1px solid blue;
+	font-size:16px;
+	color:blue;
+	
+}
+
+.menu ul li a:hover { 
+	
+	background-color:blue;
+	transition:0.5s;
+	color:black;
+	font-size:20px;
+	
+}
+
+.menu span {
+	
+	float:right;
+	margin:10px;
+	
+}
+
+.menu span input {
+	
+	background-color:blue;
+	width:260px;
+	height:19px;
+	font-size:16px;
+	font-family:verdana;
+	color:black;
+	border:2px solid darkblue;
+	border-radius:3px;
+	
+}
+
+.menu span button {
+	
+	border:2px solid blue;
+	background-color:black;
+	width:55px;
+	height:25px;
+	margin-left:3px;
+	color:blue;
+	cursor:pointer;
+	border-radius:3px;
+	
+}
+
+.content {
+	
+	margin-top:20px;
+	width:1200px;
+	min-height:600px;
+	
+}
+
+.sol {
+	
+	float:left;
+	width:700px;
+	min-height:350px;
+	
+}
+
+.sag {
+	
+	float:left;
+	margin-left:75px;
+	width:424px;
+	min-height:200px;
+	
+}
+
+.sol2 {
+	
+	border:1px solid #ddd;
+	min-height:350px;
+	background-color:white;
+	margin-bottom:20px;
+	
+}
+
+.sag2 {
+	
+	border:1px solid #ddd;
+	min-height:200px;
+	margin-bottom:20px;
+	background-color:white;
+	color:Black;
+	
+}
+
+.footer {
+	
+	border:1px solid blue;
+	margin-bottom:20px;
+	padding:10px;
+	background-color:black;
+	color:blue;
+	font-size:17px;
+	font-family:verdana;
+	
+}
+
+.sol2 h2 {
+	
+	border:1px solid blue;
+	padding:10px;
+	margin:2px;
+	font-size:20px;
+	font-family:verdana;
+	background-color:black;
+	color:blue;
+	
+}
+
+.bilgi {
+	
+   	border:1px solid black;
+	background-color:blue;
+	margin:2px;
+	padding:5px;
+	
+}
+
+.resim img {
+	
+	width:200px;
+	height:150px;
+	margin:10px;
+	float:left;
+
+}
+
+.sol2 p {
+	
+	margin:12px;
+	line-height:1.5;
+	font-family:arial,sans-serif;
+}
+
+.devam {
+	
+	float:right;
+	border:2px solid blue;
+	margin:10px;
+	background-color:black;
+	padding:10px;
+	border-radius:5px;
+	
+}
+
+.devam a {
+	
+	color:blue;
+	font-size:;
+	
+}
+
+.sag2 h2 {
+	
+	margin-bottom:10px;
+	border:1px solid blue;
+	padding:10px;
+	background-color:black;
+	color:blue;
+	font-family:verdana;
+	font-size:20px;
+	
+}
+
+.sag2 ul li input {
+	
+	width:300px;
+	height:20px;
+	border-radius:5px;
+	border:2px solid darkblue;
+	font-size:18px;
+	background-color:blue;
+	
+}
+
+.sag2 ul li {
+	
+	margin:10px 10px 10px 55px;
+	font-size:18px;
+	
+}
+
+.sag2 ul li button {
+	
+	border:2px solid blue;
+	border-radius:5px;
+	background-color:black;
+	color:blue;
+	height:35px;
+	width:150px;
+	font-size:15px;
+	cursor:pointer;
+	font-weight:bold;
+	
+}
+
+.sag3 h2 {
+	
+	border:1px solid blue;
+	padding:10px;
+	background-color:black;
+	color:blue;
+	font-family:verdana;
+	font-size:20px;
+	margin-bottom:10px;
+	
+}
+
+.sag3 {
+	
+	border:1px solid #ddd;
+	min-height:200px;
+	margin-bottom:20px;
+	background-color:white;
+	color:black;
+	
+}
+
+.sag3 span img {
+	
+	width:100px;
+	height:110px;
+	margin:5px 5px 5px 5px;
+	
+}
+
+.sag3 ul li {
+	
+	
+}
+
+.sag3 ul li a{
+	
+	margin-bottom:2px;
+	color:Blue;
+	display:block;
+	border:1px solid blue;
+	padding:10px;
+	font-size:18px;
+	background-color:Black;
+	font-family:verdana;
+	
+}
+
+
+
+.sag3 ul li a:hover {
+	
+	background-color:blue;
+	transition:0.5s;
+	color:black;
+	font-size:20px;
+	
+}
+
+.sag2 h3 {
+	
+	border:1px solid blue;
+	padding:15px;
+	font-size:18px;
+	background-color:black;
+	color:Blue;
+	
+}
+
+.sol2 ul li {
+	
+	margin:5px 0px 0px 20px ;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+.sol2 ul li input  {
+	
+    width:300px;
+    height:30px;    
+	border-radius:5px;
+	border:1px solid #ddd;
+	font-size:18px;
+	font-family:verdana;
+	
+}
+
+.sol2 ul li textarea {
+	
+	border-radius:10px;
+	font-size:20px;
+	
+}
+
+.sol2 ul li button {
+	
+	border:2px solid blue;
+	background-color:black;
+	width:70px;
+	height:30px;
+	margin-left:3px;
+	color:blue;
+	cursor:pointer;
+	border-radius:3px;
+	margin-bottom:10px;
+	
+}
+
+.sag3 h3 img {
+	
+	width:50px;
+    margin:5px;
+	float:left;
+}
+
+.sag3 h3 {
+	
+	border:1px solid blue;
+	float:left;
+	width:420px;
+	background-color:black;
+	color:blue;
+	font-size:22px;
+	
+}
+
+.sayfalama {
+	
+	border:1px solid blue;
+	margin-bottom:20px;
+	background-color:black;
+	padding:10px;
+	font-size:20px;
+	width:678px;
+	
+}
+
+.sayfalama b {
+	
+	border:1px solid blue;
+	color:blue;
+	font-size:20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
